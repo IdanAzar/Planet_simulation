@@ -1,2 +1,2 @@
-# Planet_simulation
+# Planet_Simulation
  Using Physics In Programing
